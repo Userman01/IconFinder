@@ -1,8 +1,8 @@
 //
 //  DarkTheme.swift
-//  UnsplashApp
+//  IconFinder
 //
-//  Created by Петр Постников on 30.03.2024.
+//  Created by Петр Постников on 22.06.2024.
 //
 
 import UIKit
